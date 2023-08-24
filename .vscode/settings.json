@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/ba75237d-0255-4458-9f92-06e41c0fa006/resourceGroups/rgZohm001/providers/Microsoft.Web/sites/louis-windows-demo",
+  "appService.deploySubpath": "."
+}
